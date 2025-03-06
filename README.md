@@ -14,8 +14,8 @@ AVRG is a vertical scrolling rhythm game (not yet!) created using SDL3. Will all
 
 ## TODO:  
 
-Fix folder structure  
-Fix options menu  
-Rewrite state machine code  
-Add main game functionality  
-Add about menu
+- Fix folder structure  
+- Fix options menu  
+- Rewrite state machine code  
+- Add main game functionality  
+- Add about menu
